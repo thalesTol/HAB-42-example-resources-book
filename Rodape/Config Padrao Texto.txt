@@ -1,0 +1,10 @@
+1 - texto = (Erro no texto)
+2 - url = nil
+3 - tamanho = 14
+4 - fonte = ariblk.ttf
+5 - alinhamento (esquerda-meio-direita-justificado) = meio
+6 - cor (RGB) = 0,0,0
+7 - x = nil
+8 - y = nil
+9 - urlEmbeded = nil
+10 - margem = 30

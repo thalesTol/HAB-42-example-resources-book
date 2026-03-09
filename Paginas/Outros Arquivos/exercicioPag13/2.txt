@@ -1,0 +1,17 @@
+2 - imagem
+ arquivo = erro.jpg
+ atributo alt = Figura indicando que a alternativa escolhida está errada!
+
+0 - espaco
+
+2 - texto
+ texto = A resposta: Bach, infelizmente está errada. Mas isso, também, é uma dúvida de quem conhece música. Bach é o inventor da escala bem temperada, o que facilitou e simplificou a construção dos instrumentos harmônicos ocidentais. Bach observou que dava para #l1##s#resumir as notas musicais em apenas 12#/s##/l1# , independente da tonalidade, de tal modo que o ouvido humano não percebesse significativamente a diferença.\n O link #l2##s# de como encrontrar as escalas na guitarra, utilizando uma Fita métrica,#/s##/l2# mostra a relação matemática, na prática, entre as notas de uma guitarra
+ fonte = segoeuib.ttf
+ tamanho = 20
+ alinhamento = justificado
+ url = https://pt.wikipedia.org/wiki/Temperamento_musical|||https://youtu.be/MkHQUtVrr-A?list=PL1ZdLDpEk8v3Ihz8rkD6zAtxORPAfBCLG
+
+
+ 3- imagem
+ arquivo = escalaFitaMetrica.JPG
+ atributo alt = Essa figura mostra uma pessoa medindo o comprimento do braço de uma guitarra.

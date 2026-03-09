@@ -1,0 +1,16 @@
+﻿1 - alinhamento = justificado
+2 - margem = 60
+3 - fonte = segoeui.ttf
+4 - enunciado = "Assinale a correta:"
+5 - tamanhoEnunciado = 70
+6 - alternativas = "opção1","opção2"
+7 - tamanhoAlternativas = 40
+8 - corretas = 1
+9 - justificativas = nil#nil
+10 - corFonte (RGB) = 0,50,0
+11 - x = nil
+12 - y = nil
+13 - pasta = nil
+14 - mensagem correta = nil
+15 - mensagem incorreta = nil
+16 - margem = 60

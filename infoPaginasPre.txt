@@ -1,0 +1,3 @@
+﻿
+2 - colocar numeros de pagina = sim
+3 - pasta = PaginasPre

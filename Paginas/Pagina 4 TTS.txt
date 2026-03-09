@@ -1,0 +1,17 @@
+3- imagem
+ arquivo = 042 onisciencia.png
+ margem = 250
+ y=5
+ 
+0- espaco
+distancia = 100
+
+3- imagem
+  arquivo = recurso TTS.png
+  atributo ALT = Recurso T.T.S: Propriedades e particularidades
+4- imagem
+  arquivo = passar pagina.png
+  
+1- texto
+texto =  
+indice = - TTS, Configuração e Slide Bar || 1

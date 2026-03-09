@@ -1,0 +1,102 @@
+
+settings =
+{
+	window =
+	{
+		defaultMode = "normal",
+		defaultViewWidth = 720,
+		defaultViewHeight = 720,
+		resizable = true,
+		enableCloseButton = true,
+		enableMinimizeButton = true,
+		suspendWhenMinimized = true,
+		titleText = {
+			-- The "default" text will be used if the system is using a language and/or
+			-- country code not defined below. This serves as a fallback mechanism.
+			default = "Aterramentos (Omniscience 42)",
+			-- This text is used on English language systems in the United States.
+			-- Note that the country code must be separated by a dash (-).
+			["en-us"] = "Aterramentos (Omniscience 42)",
+			-- This text is used on English language systems in the United Kingdom.
+			-- Note that the country code must be separated by a dash (-).
+			["en-gb"] = "Aterramentos (Omniscience 42)",
+			-- This text is used for all other English language systems.
+			["en"] = "Aterramentos (Omniscience 42)",
+			-- This text is used for all French language systems.
+			["fr"] = "Aterramentos (Omniscience 42)",
+			-- This text is used for all Spanish language systems.
+			["es"] = "Aterramentos (Omniscience 42)",
+		},
+	},
+	orientation =
+	{
+		default ="portrait",
+		content = "portrait",
+		supported =
+		{
+			"portrait",
+		},
+	},
+	android =
+	{
+		usesExpansionFile = false,
+		useGoogleServicesJson = false,
+		largeHeap = true,
+		usesPermissions =
+		{
+			"android.permission.VIBRATE",
+			"android.permission.INTERNET",
+			"android.permission.ACCESS_NETWORK_STATE",
+			"com.android.vending.CHECK_LICENSE",
+			"android.permission.WRITE_EXTERNAL_STORAGE",
+			-- Permission to retrieve current location from the GPS.
+			"android.permission.ACCESS_FINE_LOCATION",
+			-- Permission to retrieve current location from WiFi or cellular service.
+			"android.permission.ACCESS_COARSE_LOCATION",
+		},
+	},
+	iphone =
+	{
+		xcassets = "Images.xcassets",
+		plist =
+		{
+			NSAppTransportSecurity =
+			{
+				NSAllowsArbitraryLoads = true,
+			},
+			UILaunchStoryboardName = "LaunchScreen",
+			ITSAppUsesNonExemptEncryption = false, -- This sample doesn't use custom encryption
+		},
+	},
+	plugins =
+	{
+		
+		["CoronaProvider.native.popup.quickLook"] =
+		{
+			publisherId = "com.coronalabs",
+			supportedPlatforms = { iphone = true },
+		}, 
+		--["plugin.zip"] =
+		--{
+		--	publisherId = "com.coronalabs"
+		--},
+		["plugin.pdfImageConverter"] =
+		{
+			publisherId = "tech.scotth",
+						marketplaceId="x5twpu",
+		},
+		--["plugin.notifications.v2"] =
+		--{
+		--	publisherId = "com.coronalabs"
+		--},
+		--["plugin.pasteboard"] =
+		--{
+		--	publisherId = "com.coronalabs",
+		--},
+		--["plugin.voiceToText"] =
+		--{
+		--	publisherId="tech.scotth",
+		--	marketplaceId = "thithous@hotmail.com",
+		--},
+	},
+}

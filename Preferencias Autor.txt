@@ -1,0 +1,14 @@
+1 - Aprovação comentários = nao
+2 - Histórico Ativado = sim
+3 - Login Ativado = sim
+4 - Pagina Numero 1 = 1
+5 - corFundo = 255,255,255
+6 - linguagem = portugues_br
+7 - Velocidade padrao do TTS = 0
+8 - contato de bloqueio = omniscience42.com
+9 - link contato = http://omniscience42.com
+10 - vozTTS = Vitoria
+11 - tipoTTS = RSS
+12 - neuralTTS = sim
+13 - ajudaTTS Ativado = sim
+14 - TTS desativado = nao

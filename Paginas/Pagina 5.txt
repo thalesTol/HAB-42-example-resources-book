@@ -1,0 +1,206 @@
+
+0- espaco
+3- imagem
+ arquivo = o42esqerda4.png
+ 
+0- espaco
+ distancia=30
+ 7 - separador
+ cor = 130,59,11
+ largura = 600
+ 
+0-espaco
+ 
+1- texto
+ texto = TTS - LEITURA AUTOMÁTICA DE TEXTOS 
+
+ tamanho = 32
+ alinhamento = meio
+ cor = 192,0,0
+ sombra = 4,4
+ corSombra = 127,127,127
+ 
+ 0- espaco
+ distancia = 30
+ 
+ 1- texto
+ texto = 1- TELA DO SISTEMA APÓS O LOGIN
+ fonte = ariblk.ttf
+ tamanho = 19
+ alinhamento = esquerda
+ cor = 8,8,182
+ 
+ 0- espaco
+ 
+ 2- imagem
+  arquivo = ttsDesativado.png
+  escala = 0.35
+  
+ 1- texto
+  texto = 2- ATIVANDO O TTS 
+   fonte = ariblk.ttf
+ tamanho = 19
+ alinhamento = justificado
+  cor = 8,8,182
+ 
+1- texto
+  texto = Para iniciar a leitura dos textos explícitos na página e os implícitos deve-se dar dois clique no ícone do canto superior direito da tela, conforme figura a seguir:#/14#  
+   fonte = ariblk.ttf
+ tamanho = 14
+ alinhamento = justificado
+  cor = 0,0,0
+
+
+ 
+  2- imagem
+  arquivo = iniciarTTS.png
+  escala = 0.15
+  1- texto
+  texto = Se der apenas um toque, tap, o sistema envia uma mensagem dizendo que é preciso dois toques para ativar o recurso.  Todo o sistema se baseia nesse princípio:\n -Um toque -> Mensagem.\n -Dois toques -> Ativação
+   fonte = ariblk.ttf
+ tamanho = 14
+ alinhamento = justificado
+  cor = 0,0,0
+  
+0- espaco 
+  
+  
+  1- texto
+ texto = 3- TTS ATIVADO: MODO DE NAVEGAÇÃO
+ fonte = ariblk.ttf
+ tamanho = 19
+ alinhamento = esquerda
+ cor = 8,8,182
+ 0- espaco
+ 3- imagem 
+ arquivo = ttsAtivado1.png
+ escala = 0.35
+ 0-espaco
+ distancia = 15
+ 
+  1- texto
+ texto = 4- AVANÇANDO NO ÁUDIO
+ tamanho = 19
+ alinhamento = esquerda
+ cor = 8,8,182
+ 0- espaco
+ 3- imagem 
+ arquivo = avancar.png
+ escala = 0.15
+ 0-espaco
+
+ 1- texto
+ texto = 5- DANDO DOIS TOQUES no botão da figura ACIMA, no canto INFERIOR DIREITO, o sistema AVANÇA no texto em ate 50 segundos.\nSe os textos forem menores, avança de texto em texto.\n Clicando uma vez, o TTS envia a instrução para dar dois toques. Isso evita que pessoas com deficiência visual cliquem em algum botão de forma ou momento indevidos. 
+ tamanho = 14
+ alinhamento = justificado
+ cor = 0,0,0
+ 0- espaco
+ 
+
+ distancia = 15
+ 
+ 1- texto
+ texto = 6- RETROCEDENTO NO ÁUDIO
+ tamanho = 19
+ alinhamento = esquerda
+ cor = 8,8,182
+ 0- espaco
+ 3- imagem 
+ arquivo = retrocedendo.png
+ escala = 0.15
+ 0-espaco
+
+ 1- texto
+ texto = 7- DANDO DOIS TOQUES no botão da figura ACIMA, no canto inferior ESQUERDO, o sistema RETROCEDE no texto em ate 50 segundos. Se os textos forem menores, avança de texto em texto. Clicando uma vez, o TTS envia a instrução para dar dois toques. Isso evita que pessoas com deficiência visual cliquem em algum botão de forma ou momento indevidos. 
+ tamanho = 14
+ alinhamento = esquerda
+ cor = 0,0,0
+ 0- espaco
+
+1- texto
+ texto = PAUSANDO O ÁUDIO DO TTS
+ tamanho = 19
+ alinhamento = esquerda
+ cor = 8,8,182
+ 0- espaco
+ 3- imagem 
+ arquivo = Pausar.png
+ escala = 0.15
+ 0-espaco
+
+ 1- texto
+ texto = 7- DANDO DOIS TOQUES no botão da figura ACIMA, no canto superior DIREITO, o sistema PAUSA áudio. Clicando uma vez, o TTS envia a instrução para dar dois toques. Isso evita que pessoas com deficiência visual cliquem em algum botão de forma ou momento indevidos. 
+ tamanho = 14
+ alinhamento = esquerda
+ cor = 0,0,0
+ 0- espaco
+ 
+ 1- texto
+ texto = 8- RETORNANDO O ÁUDIO DE ONDE PAUSOU
+ tamanho = 19
+ alinhamento = esquerda
+ cor = 8,8,182
+ 0- espaco
+ 3- imagem 
+ arquivo = despausar.png
+ escala = 0.15
+ 0-espaco
+
+ 1- texto
+ texto = 9- DANDO DOIS TOQUES no botão da figura ACIMA, no canto superior DIREITO, o sistema CONTINUA O áudio do ponto em que parou. Clicando uma vez, o TTS envia a instrução para dar dois toques. Isso evita que pessoas com deficiência visual cliquem em algum botão de forma ou momento indevidos. 
+ tamanho = 14
+ alinhamento = esquerda
+ cor = 0,0,0
+ 0- espaco
+ 
+ 1- texto
+ texto = 10- CONFIGURAÇÃO DO TTS (e mais): 
+ tamanho = 19
+ alinhamento = esquerda
+ cor = 8,8,182
+ 0- espaco
+ 1-texto
+ texto =1- Velocidade de reprodução, se estiver On Line\n 2- Fechar o sistema do e-áudio-book\n 3- procurar palavras no texto.
+  tamanho = 14
+ alinhamento = esquerda
+ cor = 0,0,0
+ 0- espaco
+ 3- imagem 
+ arquivo = config.png
+ escala = 0.12
+ 
+ 0-espaco
+
+ 1- texto
+ texto = 11- DANDO DOIS TOQUES no botão da figura acima, perto do canto superior DIREITO, uma engrenagem, pode-se configurar o sistama para:\n 1- Velocidade de reprodução, se estiver On Line\n 2- Fechar o sistema do e-áudio-book\n 3- procurar palavras no texto.\n Isso pode ser visto na figura a seguir:
+ tamanho = 14
+ alinhamento = esquerda
+ cor = 0,0,0
+ 0- espaco
+ 
+  3- imagem 
+ arquivo = configurações.png
+ escala = 0.40
+ 
+  0-espaco
+ 1- texto
+ texto = PASSANDO PÁGINAS COM O SLIDE BAR
+
+ tamanho = 32
+ alinhamento = meio
+ cor = 192,0,0
+ sombra = 4,4
+ corSombra = 127,127,127
+ 
+ 0- espaco
+ distancia = 30 
+ 1- texto
+ texto = ESCOLHENDO A PÁGINA COM O SLIDE BAR: basta deslocar o cursor (bola vermelha) para direita e esquerda, onde o número da página será mostrado. Ao parar a rolagem, o sistema irá para a página escolhida. 
+ tamanho = 14
+ alinhamento = justificado
+ cor = 0,0,0
+ 0- espaco
+ 
+  3- imagem 
+ arquivo = rolagemPg.png
+ escala = 0.70

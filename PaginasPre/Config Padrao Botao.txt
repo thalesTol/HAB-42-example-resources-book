@@ -1,0 +1,19 @@
+﻿
+1 - fundoUP = nil
+2 - fundoDown = nil
+3 - altura = 100
+4 - comprimeto = 300
+5 - acao (irPara,texto,imagem,som,video) = irPara
+6 - x = nil
+7 - y = nil
+8 - label do botao unico = Link Interno
+9 - tamanho = 40
+10 - cor = 255,255,255
+11 - numero da pagina = 1
+12 - video = nil
+13 - som = nil
+14 - imagem = nil
+15 - texto = #n#Explicação#/n#
+16 - automatico = nao
+17 - avancar automaticamente = nao
+18 - botao pause = nao

@@ -1,0 +1,84 @@
+{
+	"Cards" : {
+		
+	},
+	"Dicionario" : {
+		
+	},
+	"Forum" : {
+		
+	},
+	"Impressao" : {
+		
+	},
+	"Login" : {
+		
+	},
+	"MenuConfig" : {
+		
+	},
+	"Rodape" : {
+		
+	},
+	"Relatorio" : {
+		
+	},
+	"Tela" : {
+		"fast_menu" : {
+			"options" : {
+				
+			},
+			"background" : {
+				
+			}
+		},
+		"selection_bar":{
+			"number" : {
+				"label" : {
+					"font" : "Fontes/arial.ttf",
+					"size" : 50,
+					"fillColor" : [255,255,255],
+					"x" : 100,
+					"y" : 100
+				},
+				"rect" : {
+					"anchorX" : 0.5,
+					"anchorY" : 0.5,
+					"x" : 20,
+					"y" : 20,
+					"width" : 20,
+					"height" : 20,
+					"radius" : 10,
+					"file" : null,
+					"shape" : "roundedRect",
+					"fillColor" : [46,171,200],
+					"strokeColor" : [0,0,0],
+					"strokeWidth" : 0,
+				}
+			},
+			"bar" : {
+				"fillColor" : [243,129,33,1],
+				"strokeWidth" : 4,
+				"height" : 10,
+				"width" : 500
+			},
+			"slider" : {
+				"anchorX" : 0.5,
+				"anchorY" : 0.5,
+				"x" : "center",
+				"y" : 1130,
+				"width" : 19,
+				"height" : 80,
+				"radius" : 20,
+				"file" : null,
+				"shape" : "circle",
+				"fillColor" : [192,0,0,1],
+				"strokeColor" : [0,0,0],
+				"strokeWidth" : 6,
+			}
+		}
+	},
+	"TTS" : {
+		
+	}
+}

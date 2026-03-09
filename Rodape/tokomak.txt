@@ -1,0 +1,67 @@
+
+1- texto
+ texto = TOKAMAK
+ tamanho = 22
+ alinhamento = meio
+ cor = 192,0,0
+ sombra = 3,4
+ corSombra = 0,0,0
+ 
+0- espaco
+ distancia=60
+ 
+1- texto
+ texto = O Tokamak foi inventado pelos soviéticos nos anos 60 (1960), e, desde então, a tecnologia já se superou em mais de 10.000 vezes.\nEm 1991, foi conseguida a primeira reação de fusão nuclear controlada que se tem registrado. Isso ocorreu em Culham, no Reino Unido, no #s#Joint European Torus#/s# ( #n#JET#/n# ), ainda em atividade.\nApesar de ser o maior da atualidade, não é o mais eficiente em geração e consumo de energia para produzir mais energia. 
+  fonte = segoeui.ttf
+ tamanho = 14
+ alinhamento = justificado
+ 
+ 0-espaco
+ 
+ 1- texto
+ texto = O RECORDISTA
+ tamanho = 22
+ alinhamento = esquerda
+ 
+0-espaco
+  
+ 1- texto
+ texto = O Tokamak recordista em geração de temperatura no plasma no interior do equipamento é o #n#EAST#/n# ( #s#Experimental Advanced Superconductint Tokamak#/s# ). O mesmo quebrou o record anterior do Tokamak #n#KSTAR#/n#  ( #s#Korea Superconducting Tokamak Advanced Research#/s#, da Coréia do Sul, a qual faz parte do projeto #n#ITER#n# ( #s#International Thermonuclear Experimental Reactor#/s#.
+ fonte = segoeui.ttf
+ tamanho = 14
+ alinhamento = justificado
+ 
+ 0- espaco
+  
+ 1- texto
+ texto = #n#EAST#/n# x #n#KSTAR#/n# 
+ tamanho = 22
+ alinhamento = esquerda
+ 
+ 0- espaco
+  
+ 1- texto
+ texto = Enquando o #n#KSTAR#/n# gerou uma temperatura de 100.000.000 |>[o]C, por 30 segundos, o #n#EAST#/n# gerou uma temperatura de 120.000.000 |>[o]C durante 101 segundos, e, depois, 160.000.000 |>[o]C durante 20 segundos.\nPara se ter uma base de comparação, a temperatura no núcleo do sol chega a 15.000.000 |>[o]C.
+ fonte = segoeui.ttf
+ tamanho = 14
+ alinhamento = justificado
+ 
+ 0- espaco
+ 
+ 1- texto
+ texto = VANTAGEM DA FUSÃO E O GRANDE PROBLEMA
+ tamanho = 22
+ alinhamento = esquerda
+ 
+ 0- espaco
+  
+ 1- texto
+ texto = A fusão nuclear não gera como efeito colateral a emissão de radioatividade, o grande diferencial, do ponto de vista do risco de danos à vida na terra, em relação à fissão nuclear.  Outro grande problema é que poucos segundos em atividade não são capazes de gerar energia útil, e, pior, ainda se consome mais energia do que gera no processo, o que não é o esperado e nem o desejado. 
+ fonte = segoeui.ttf
+ tamanho = 14
+ alinhamento = justificado
+ 
+0- espaco
+
+2- imagem
+ arquivo = fi_fusao.jpeg

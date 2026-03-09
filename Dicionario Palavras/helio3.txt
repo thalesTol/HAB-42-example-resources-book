@@ -1,0 +1,157 @@
+0-texto
+	texto = Hélio-3 #n#(|>[3]He)#/n#
+	cor = 0,0,0
+	alinhamento = esquerda
+	fonte = ariblk.ttf
+0-espaco
+2-texto
+	texto = Hé-li-o 3
+	tamanho = 25
+	cor = 100,100,100
+	alinhamento = esquerda
+	fonte = ariblk.ttf
+0-espaco
+3-texto
+	texto = substantivo masculino
+	tamanho = 20
+	cor = 0,0,0
+	alinhamento = justificado
+	fonte = ariblk.ttf
+0-espaco
+2-texto
+	texto = Plural: hélio
+	tamanho = 20
+	cor = 0,0,0
+	alinhamento = justificado
+0-espaco
+2-texto
+	texto = Significado:
+	tamanho = 20
+	cor = 0,0,0
+	alinhamento = justificado
+	fonte = ariblk.ttf
+2-texto
+	texto =  isótopo de hélio de número de massa 3.(ref.1)
+	tamanho = 20
+	cor = 0,0,0
+	alinhamento = justificado
+	x = 10
+0-espaco
+2-texto
+	texto = Etimologia (origem da palavra):
+	tamanho = 20
+	cor = 0,0,0
+	alinhamento = justificado
+	fonte = ariblk.ttf
+2-texto
+	texto = Hélio: do grego - hēlios, Três: do latim - tres,tria
+	tamanho = 20
+	cor = 0,0,0
+	alinhamento = justificado
+	x = 10
+0-espaco
+4-texto
+	texto = Fonética:
+	tamanho = 20
+	cor = 0,0,0
+	alinhamento = esquerda
+	fonte = ariblk.ttf
+0-espaco
+4-texto
+	texto = Português(Google):  ˈɛ.lju tɾˈeʃ
+	tamanho = 20
+	cor = 0,0,0
+	x = 10
+	alinhamento = justificado
+0-espaco
+5-botao
+	label = 
+	acao = som
+	comprimento = 240
+	altura = 160
+	automatico = nao
+	cor = 191,77,78
+	fundoUp = audioButton.png
+	fundoDown = audioButtonD.png
+	som = He3.mp3
+0-espaco
+6-texto
+	texto = Imagens:
+	tamanho = 20
+	cor = 0,0,0
+	alinhamento = justificado
+	fonte = ariblk.ttf
+	
+0-espaco
+6-texto
+	texto = Figura 1: Lua: fonte de Hélio-3
+	tamanho = 20
+	cor = 0,0,0
+	alinhamento = meio
+6-imagem
+	arquivo = He3.jpg
+	atributoALT = A figura mostra um átomo de Hélio 3 com a Lua ao fundo.
+6-texto
+	texto = Fonte: istockphoto.com, 2018.(ref.2)
+	tamanho = 20
+	cor = 0,0,0
+	alinhamento = meio
+	0-espaco
+8-texto
+	texto = Exemplo de Contexto:
+	tamanho = 20
+	cor = 0,0,0
+	alinhamento = justificado
+	fonte = ariblk.ttf
+0-espaco
+8-texto
+	texto = |f=ariblk.ttf[|t26[N]o meio da euforia do advento da construção dos #r=tokomak.txt#TOKAMAK#/r=tokomak.txt#, surge uma nova expectativa de geração de energia limpa utilizando Hélio-3 (|>[3]|n[He]), a energia das estrelas, pelo processo da #r=fusao.txt#Fusão Nuclear#/r=fusao.txt# em vez das preocupantes usinas geradoras de energia por #r=fissao.txt#Fissão Nuclear#/r=fissao.txt#, como o que ocorreu em #r=chernobyl.txt#Chernobyl#/r=chernobyl.txt#.
+	tamanho = 20
+	cor = 0,0,0
+	alinhamento = justificado
+	x = 10
+0-espaco
+8-texto\n"
+	texto = #n#Referências:#/n#
+	tamanho = 20
+	cor = 0,0,0
+	alinhamento = justificado
+	fonte = ariblk.ttf
+0-espaco
+8-texto
+	texto = 1 - UOL. #s#hélio#/s#. Disponível em:<https://michaelis.uol.com.br/busca?id=2axap>. Acesso em: 27/09/2022. 2022.
+	x = 10
+	tamanho = 20
+	cor = 0,0,0
+	alinhamento = esquerda
+0-espaco
+8-texto
+	texto = MATHIAS, João. #s#Lua e hélio-3, o modelo do átomo contra a lua. - Imagem em Alta Resolução#/s#. Disponível em: <https://www.istockphoto.com/br/foto/lua-e-h%C3%A9lio-3-o-modelo-do-%C3%A1tomo-contra-a-lua-gm978333134-265920654>.Acesso em: 27/09/2022. 2018.
+	x = 10
+	tamanho = 20
+	cor = 0,0,0
+	alinhamento = esquerda
+
+0-espaco
+8-texto
+	texto = 3 - SOARES, Lucas. #s#Mineral que a China descobriu na Lua pode permitir fusão nuclear ilimitada#/s#. Disponível em: <https://olhardigital.com.br/2022/09/16/ciencia-e-espaco/mineral-que-a-china-descobriu-na-lua-pode-permitir-fusao-nuclear/>.Acesso em: 29/08/2022.Editora Olhar Digital. Atualizada em 19/09/2022.
+	x = 10
+	tamanho = 20
+	cor = 0,0,0
+	alinhamento = esquerda
+0-espaco
+8-texto
+	texto = Complementos...
+	tamanho = 20
+	cor = 0,0,0
+	alinhamento = justificado
+	fonte = ariblk.ttf
+0-espaco
+8-texto
+	texto = #n#Curiosidade:#/n# Recentemente a China revelou que descobriu um curioso mineral no solo da Lua, o Chang’e-5. A descoberta foi feita em 2020, mas os estudos com os primeiros dados só foram finalizados agora. De acordo com os cientistas, esse material pode permitir o uso ilimitado de energia de fusão nuclear. (ref.3)
+	tamanho = 20
+	cor = 0,0,0
+	alinhamento = justificado
+	x = 10
+
+

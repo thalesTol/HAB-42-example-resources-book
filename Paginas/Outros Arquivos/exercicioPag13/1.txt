@@ -1,0 +1,35 @@
+2 - imagem
+ arquivo = erro.jpg
+ atributo alt = Figura indicando que a alternativa escolhida está errada!
+0 - espaco
+
+1 - texto
+ texto = A resposta: Pitágoras, infelizmente está errada. \nMas isso demonstra que você possui bons conhecimentos musicais, já que uma pessoa leiga não sabe que #l1##s#Pitágoras#/l1##/s# contribuiu para a música de forma significativa. O mesmo foi quem definiu a escala musical. Ele descobriu a relação dos intervalos musicais agradáveis, fazendo experimentos com  #l2##s#comprimentos de cordas#/s##/l2# , ou seja, a  #l3##s#Escala Pitagórica#/s##/l3# .
+ fonte = segoeuib.ttf
+ tamanho = 20
+ alinhamento = justificado
+ url = https://www.youtube.com/watch?v=66l6MBQgcRg|||https://www.youtube.com/watch?v=JWwtVDjm3Ws|||http://matematicosdemogi.blogspot.com/2015/07/matematica-e-musica.html
+
+0 - espaco
+
+3- imagem
+ arquivo = escalaPitagorica.jpg
+ atributo alt = Figura contendo os intervalos entre as alturas da escala diatônica Pitagórica
+0 - espaco
+
+4- texto
+ texto = O #l1##s#Monocórdio de Pitágoras#/l1##/s# mostra com detalhes a escala e os intervalos
+ fonte = segoeuib.ttf
+ tamanho = 20
+ alinhamento = justificado
+ url = https://www.youtube.com/watch?v=ESPdVRmQVms
+0 - espaco
+
+5- imagem
+ arquivo = monocordio.jpg
+ atributo alt = Esta figura mostra uma visão lateral do monocórdio de Pitágoras, mostrando a base de apoio, cantoneiras, cavalete, corda e gancho para esticar e prender a corda. 
+0 - espaco
+
+6- imagem
+ arquivo = monocordio2.jpg
+ atributo alt = Esta figura mostra um detalhe com vista superior do monocórdio de Pitágoras, mostrando a relação entre intervalos. 

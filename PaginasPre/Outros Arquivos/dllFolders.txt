@@ -1,0 +1,2 @@
+Anim O42
+Anim Padrao.lib

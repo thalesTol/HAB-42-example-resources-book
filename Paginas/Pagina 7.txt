@@ -1,0 +1,319 @@
+3- imagem
+ arquivo = o42esqerda4.png
+ 
+0- espaco
+ distancia=30
+ 
+1- texto
+ texto = RECURSOS PERSONALIZÁVEIS NO TEXTO#/r=obsFundTexto.txt#
+ tamanho = 32
+ alinhamento = meio
+ cor = 192,0,0
+ sombra = 4,4
+ corSombra = 127,127,127
+ indice = - TEXTO: principais recursos, incluindo multimidia implícita e explícita ||1
+ 
+0- espaco
+ distancia=30
+ 
+1- texto
+ texto = 1- MUDANÇA DE FONTE:
+ fonte = ariblk.ttf
+ tamanho = 19
+ alinhamento = esquerda
+  cor = 8,8,182
+1- texto
+ texto = fonte arial 18-> #font=neuropol.ttf#fonte neuropol 18#/font#
+ fonte = arial.ttf
+ tamanho = 18
+ alinhamento = justificado
+
+0- espaco
+ distancia = 15
+ 
+1- texto
+ texto = 2- MUDANÇA DE TAMANHO:
+ fonte = ariblk.ttf
+ tamanho = 19
+ alinhamento = esquerda
+  cor = 8,8,182
+1- texto
+ texto = fonte arial 18-> #t=22#fonte arial 22#/t=22#
+ fonte = arial.ttf
+ tamanho = 18
+ alinhamento = justificado
+
+0- espaco
+ distancia = 15
+ 
+1- texto
+ texto = 3- MUDANÇA DE TAMANHO E FONTE DE LETRA(s):
+ fonte = ariblk.ttf
+ tamanho = 19
+ alinhamento = esquerda
+  cor = 8,8,182
+
+1- texto
+ texto = fonte arial 18 - Onisciência 42 ->\nfonte times 28 com arial 18 - |t28[|f=times.ttf[O]nisciência 42
+ fonte = arial.ttf
+ espacamento = 10
+ tamanho = 18
+ alinhamento = justificado
+
+0- espaco
+ distancia = 15
+ 
+1- texto
+ texto = 4- MUDANÇA DE COR:
+ fonte = ariblk.ttf
+ tamanho = 19
+ alinhamento = esquerda
+  cor = 8,8,182
+1- texto
+ texto = fonte arial 18 preta -> #c=192,0,0#fonte arial 18 vermelha#/c#
+ fonte = arial.ttf
+ tamanho = 18
+ alinhamento = justificado
+ 
+0- espaco
+ distancia = 15
+ 
+1- texto
+ texto = 5- MUDANÇA DE COR DE LETRA(s):
+ fonte = ariblk.ttf
+ tamanho = 19
+ alinhamento = esquerda
+  cor = 8,8,182
+1- texto
+ texto = fonte arial 18 - Onisciência 42, toda preta ->\nfonte arial 18 - |c=192,0,0,1[O]nis|c=16,162,16,1[C]iência |c=192,0,0[42], com |c=192,0,0,1[vermelho] e |c=16,162,16[verde].
+ fonte = arial.ttf
+ tamanho = 18
+ alinhamento = justificado
+ 
+0- espaco
+ distancia = 15
+ 
+1- texto
+ texto = 6- TEXTO SUBLINHADO:
+ fonte = ariblk.ttf
+ tamanho = 19
+ alinhamento = esquerda
+  cor = 8,8,182
+1- texto
+ texto = fonte arial 18 - Onisciência 42 -> #s#Onisciência 42#/s#
+ fonte = arial.ttf
+ tamanho = 18
+ alinhamento = justificado
+ 
+0- espaco
+ distancia = 15
+ 
+1- texto
+ texto = 7- TEXTO EM ITÁLICO:
+ fonte = ariblk.ttf
+ tamanho = 19
+ alinhamento = esquerda
+  cor = 8,8,182
+1- texto
+ texto = fonte arial 18 - Onisciência 42 -> #i#Onisciência 42#/i# |i[casa]
+ fonte = arial.ttf
+ tamanho = 18
+ alinhamento = justificado
+ 
+0- espaco
+ distancia = 15
+ 
+1- texto
+ texto = 8- ITÁLICO COM NEGRITO:
+ fonte = ariblk.ttf
+ tamanho = 19
+ alinhamento = esquerda
+  cor = 8,8,182
+1- texto
+ texto = fonte arial 18 - Onisciência 42 -> |ni[Onis]|t22[ciência] |c=192,0,0[42]
+ fonte = arial.ttf
+ tamanho = 18
+ alinhamento = justificado
+ 
+0- espaco
+ distancia = 15
+
+1- texto
+ texto = 9- COLOCANDO SOBRESCRITO:
+ fonte = ariblk.ttf
+ tamanho = 19
+ alinhamento = esquerda
+  cor = 8,8,182
+1- texto
+ texto = fonte arial 18 - C7 -> C|>[7]
+ fonte = arial.ttf
+ tamanho = 18
+ alinhamento = justificado
+ 
+0- espaco
+ distancia = 15
+ 
+1- texto
+ texto = 10- COLOCANDO SUBSCRITO:
+ fonte = ariblk.ttf
+ tamanho = 19
+ alinhamento = esquerda
+  cor = 8,8,182
+1- texto
+ texto = fonte arial 18 - C9 -> C|<[9]
+ fonte = arial.ttf
+ tamanho = 18
+ alinhamento = justificado
+ 
+0- espaco
+ distancia = 15
+ 
+1- texto
+ texto = 11- COLOCANDO SOBRESCRITO JUNTO COM SUBSCRITO:
+ fonte = ariblk.ttf
+ tamanho = 19
+ alinhamento = esquerda
+  cor = 8,8,182
+1- texto
+ texto = fonte arial 20 - C7+9 -> C|<>[7+,9]\n\nFinalizando, ouvindo o acorde #t=28#C|<>[7+,9]#/t=28# 
+ fonte = arial.ttf
+ tamanho = 20
+ alinhamento = justificado
+ 
+0- espaco
+2- som
+ arquivo = c79.mp3
+ 1- texto
+ texto = Esse player será explicado no Recurso Áudio
+ fonte = arial.ttf
+ tamanho = 12
+ alinhamento = direita
+ 
+0- espaco
+ 
+1- texto
+ texto = 12- COLOCANDO LINK ATIVO EM QUALQUER PARTE DO TEXTO
+ fonte = ariblk.ttf
+ tamanho = 19
+ alinhamento = esquerda
+  cor = 8,8,182
+1- texto
+ texto = Inteligência Artificial e Inteligência de máquina:  #l1#https://www.linkedin.com/pulse/intelig%C3%AAncia-artificial-existe-vai-existir-de-m%C3%A1quina-luciano-lima#/l1#. Algo a se pensar!
+ url = https://www.linkedin.com/pulse/intelig%C3%AAncia-artificial-existe-vai-existir-de-m%C3%A1quina-luciano-lima
+ fonte = arial.ttf
+ tamanho = 18
+ alinhamento = justificado
+ 
+ 0- espaco
+ 1- texto
+ texto = 13- COLOCANDO LINK ATIVO EM QUALQUER PARTE DO TEXTO
+ fonte = ariblk.ttf
+ tamanho = 19
+ alinhamento = esquerda
+  cor = 8,8,182
+1- texto
+ texto = #l1#Inteligência Artificial e Inteligência de máquina#/l1#|c=0,0,0[:] algo a se pensar!
+ url =  https://www.linkedin.com/pulse/intelig%C3%AAncia-artificial-existe-vai-existir-de-m%C3%A1quina-luciano-lima
+ fonte = arial.ttf
+ tamanho = 18
+ alinhamento = justificado
+ 
+0- espaco
+
+0- espaco
+ 1- texto
+ texto = 14- COLOCANDO LINK EMBEDED (abre o conteúdo na própria página) EM QUALQUER PARTE DO TEXTO
+ fonte = ariblk.ttf
+ tamanho = 19
+ alinhamento = esquerda
+  cor = 8,8,182
+1- texto
+ texto = #l1#Inteligência Artificial e Inteligência de máquina#/l1#|c=0,0,0[:] algo a se pensar!
+ url = https://www.linkedin.com/pulse/intelig%C3%AAncia-artificial-existe-vai-existir-de-m%C3%A1quina-luciano-lima
+ url embeded = sim
+ fonte = arial.ttf
+ tamanho = 18
+ alinhamento = justificado
+ 
+ 
+ 0- espaco
+ distancia=30
+ 
+1- texto
+ texto = MULTIMÍDIA IMPLÍCITA x EXPLÍCITA
+ tamanho = 32
+ alinhamento = meio
+ cor = 192,0,0
+ sombra = 4,4
+ corSombra = 127,127,127
+ 
+0- espaco
+ distancia=30
+ 
+ 
+ 1- texto
+ texto = Na figura abaixo, e consequente texto, é mostrado o uso e valores da multimídia explícita e da multimídia implícita. A figura foi extraída de um #l1#HAB demonstrativo da degradação e da sobrecarga multimídia e cognitiva#/l1#  
+ fonte = arial.ttf
+ tamanho = 19
+ alinhamento = justificado
+  cor = 0,0,0
+  url = https://drive.google.com/file/d/1m4Thu-EdE8tg5Vy8roYvPWHgIxaYl6cg/view?usp=sharing
+ 0-espaco
+ 
+ 2- imagem
+ arquivo = sobrecargaExp_Impl.png
+ x = 10
+ 0- espaco
+ 
+ 
+ 
+1- texto
+ texto = MÍDIA EXPLÍCITA: é o sistema que mostra os recursos multimidia na página, diretamente, tais como: figuras, vídeos, áudio, animações. Isso torna o conteúdo bastante atrativo, principalmente para a geração atual. Por outro lado, segundo alguns cientistas e pesquisadores em ensino, pode causar, pelo excesso, a sobrecarga cognitiva, por vários neurocientistas e outros como Marshall McLuhan (devido esquentar o meio). Por outro lado, é um excelente recurso para avaliações e ensino, quando devidamente utilizados.\nA figura, a seguir, apresenta uma página com diversos conteúdos multimídia explícitos.  
+ fonte = arial.ttf
+ tamanho = 19
+ alinhamento = justificado
+  cor = 0,0,0
+ 0-espaco
+ 2- imagem
+ arquivo = midia explicita.png
+  escala = 0.35
+ 0- espaco 
+ 
+ 1- texto
+ texto = MÍDIA IMPLÍCITA: O sistema do Hiper-Áudio-Book (|n[HAB 42]) permite que se faça conteúdos com multi e hipermídia implícitos, ou seja, com texto limpo, o que, em algumas áreas, para alguns produtores de conteúdo, é desejado. Um texto puro é um meio frio, como pode-se analisar nos trabalhos de Marshall McLuhan e outros. Quando se retira explicitamente a multimídia da tela, degrada-se os ruídos da mesma, e, assim, o leitor passa a focar melhor na análise do texto, mas ainda tendo, com palavras chaves marcadas (em um retângulo que a envolve), o recurso multimidia (o mesmo) apresentado no exemplo de MÍDIA EXPLÍCITA.\nA figura, a seguir, apresenta a comparação entre o texto com multimídia explícita e a multimídia implícita, com o mesmo trecho de uma página feita no HAB 42, contendo uma figura, um áudio e um vídeo.  
+ fonte = arial.ttf
+ tamanho = 19
+ alinhamento = justificado
+  cor = 0,0,0
+ 0-espaco
+ 2- imagem
+ arquivo = expli_impli.png
+ x = 10
+  0 - espaco
+  
+  1- texto
+ texto = DETALHE DAS PALAVRAS CHAVES DAS MÍDIAS IMPLÍCITAS
+ fonte = arial.ttf
+ tamanho = 19
+ alinhamento = justificado
+  cor = 0,0,0
+ 0-espaco
+   
+  2- imagem
+ arquivo = detalheimpexpli.png
+ escala = 0.50
+ 
+ 0- espaco 
+ 
+ 1- texto
+ texto = ABRINDO UMA MÍDIA IMPLÍCITA:  basta clicar é o sistema que mostra os recursos multimidia na página, diretamente, tais como: figuras, vídeos, áudio, animações. Isso torna o conteúdo bastante atrativo, principalmente para a geração atual. Por outro lado, segundo alguns cientistas e pesquisadores em ensino, pode causar, pelo excesso, a sobrecarga cognitiva, por vários neurocientistas e outros como Marshall McLuhan (devido esquentar o meio). Por outro lado, é um excelente recurso para avaliações e ensino, quando devidamente utilizados.\nA figura, a seguir, apresenta uma página com diversos conteúdos multimídia explícitos.  
+ fonte = arial.ttf
+ tamanho = 19
+ alinhamento = esquerda
+  cor = 0,0,0
+ 0-espaco
+ 2- imagem
+ arquivo = abreImpli.png
+ escala = 0.5
+ 0- espaco 
+ 

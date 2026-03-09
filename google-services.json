@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "101552171585",
+    "project_id": "hiperbook-musicografia-lima",
+    "storage_bucket": "hiperbook-musicografia-lima.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101552171585:android:800566491b5466438d34c0",
+        "android_client_info": {
+          "package_name": "com.solar2d.app.HyperBook_Musicografia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101552171585-sfp9rcjke72tb6nrd5o7l5ee98de7i38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-a_GlNuHxyVeJQ9MsOel9jx7fMrUXElY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101552171585-sfp9rcjke72tb6nrd5o7l5ee98de7i38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

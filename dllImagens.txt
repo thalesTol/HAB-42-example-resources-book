@@ -1,0 +1,87 @@
+audioAvancar.png
+audioAvancarD.png
+audioParar.png
+audioPararD.png
+audioPausar.png
+audioPausarD.png
+audioPlayer.png
+audioPlayerMP3.png
+audioPlayerWAV.png
+audioPlayerWMA.png
+audioRodar.png
+audioRodarD.png
+audioVoltar.png
+audioVoltarD.png
+backPageDown.png
+backPageUp.png
+barraBotoesPlayVideo.png
+botaoIndiceDown.png
+botaoIndiceUp.png
+botaoRecomecarDown.png
+botaoRecomecarUp.png
+disableTTSspeed.png
+fontChange.png
+fundo-azul-pressionado.png
+fundo-azul.png
+high_res_android_store.png
+Icon-40.png
+Icon-58.png
+Icon-76.png
+Icon-76@2x.png
+Icon-80.png
+Icon-87.png
+Icon-120.png
+Icon-152.png
+Icon-167.png
+Icon-180.png
+Icon-hdpi.png
+Icon-ldpi.png
+Icon-mdpi.png
+Icon-Small-40.png
+Icon-Small-40@2x.png
+Icon-Small-40@3x.png
+Icon-Small-50.png
+Icon-Small-50@2x.png
+Icon-Small-100.png
+Icon-Small.png
+Icon-Small@2x.png
+Icon-Small@3x.png
+Icon-xhdpi.png
+Icon-xxhdpi.png
+Icon-xxxhdpi.png
+Icon.png
+menu.png
+numbers2.png
+numbers3.png
+passarPagina.png
+passarPaginaE.png
+pause 2.png
+pause.png
+play.png
+playAnim.png
+recording.png
+reiniciar.png
+slider.png
+slider2.png
+tts backwardDown.png
+tts backwardUp.png
+tts forwardDown.png
+tts forwardUp.png
+tts pause down.png
+tts pause.png
+tts pausePlay.png
+tts pausePlayD.png
+tts reiniciar down.png
+tts reiniciar.png
+tts.png
+ttsDown.png
+videoback.png
+videobackD.png
+videoforward.png
+videoforwardD.png
+videopause.png
+videopauseD.png
+videoplay.png
+videoplayD.png
+videostop.png
+videostopD.png

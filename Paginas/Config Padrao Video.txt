@@ -1,0 +1,5 @@
+﻿1 - arquivo = video vazio.m4v
+2 - youtube = nil
+3 - x = nil
+4 - y = nil
+5 - atributo ALT = nil

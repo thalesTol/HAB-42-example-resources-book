@@ -1,0 +1,147 @@
+3- imagem
+ arquivo = o42esqerda4.png
+ 
+0- espaco
+ distancia=30
+ 
+1- texto
+ texto = AlGUNS RECURSOS MAIS RELEVANTES DO ÁUDIO
+ tamanho = 32
+ alinhamento = meio
+ cor = 192,0,0
+ sombra = 4,4
+ corSombra = 127,127,127
+ indice = - ÁUDIO: principais recursos ||1
+0- espaco
+ distancia=30
+ 
+1- texto
+ texto = 1- PLAYER, ATRIBUTOS E FERRAMENTAS:
+ fonte = ariblk.ttf
+ tamanho = 19
+ alinhamento = esquerda
+ cor = 8,8,182
+ 0- espaco
+ 
+1- imagem
+  arquivo = audioFig.png
+  
+0- espaco
+ distancia = 22
+ 
+ 1- texto
+ texto = 2- CONTROLES DO PLAYER
+ fonte = ariblk.ttf
+ tamanho = 19
+ alinhamento = esquerda
+ cor = 8,8,182
+ 0- espaco
+ 2-imagem 
+ arquivo = player.png
+ escala = 0.65
+ 
+ 0- espaco
+ 
+  1- texto
+ texto =3- CONTADOR DE POSIÇÃO DO ÁUDIO E DE DURAÇÃO TOTAL.
+ fonte = ariblk.ttf
+ tamanho = 19
+ alinhamento = esquerda
+ cor = 8,8,182
+ 0- espaco
+ 2-imagem 
+ arquivo = barIniTotal.png
+ 
+ 0- espaco
+ 
+ 7 - texto 
+  texto = 4- CONTEÚDO ESCRITO DO ÁUDIO
+   tamanho = 19
+ alinhamento = esquerda
+ cor = 8,8,182
+ 0- espaco
+ 1- texto =
+  texto = O player quando tiver o conteúdo de acessibilidade, por texto, possui um símbolo de uma letra T, conforme a seguir, que, clicando na mesma, o conteúdo é aberto. 
+  fonte = ariblk.ttf
+ tamanho = 19
+ alinhamento = justificado
+ cor = 0,0,0
+ 0- espaco
+  2-imagem 
+ arquivo = conteudo.png
+ escala = 0.10
+ x = 320
+  0- espaco
+   0- espaco
+0- som
+arquivo = eptafio.mp3
+ conteudo = O CONTEÚDO É DEFINIDO CONFORME A ESCOLHA DO AUTOR, PODENDO SER A LETRA DE UMA MÚSICA, UMA OBSEVAÇÃO, outros ... QUE SEJA RELEVANTE PARA PESSOAS COM DEFICIÊNCIA AUDITIVA ENTENDER DO QUE SE TRATA O ÁUDIO.\n\n EXEMPLO:\n\n      MÚSICA EPITÁFIO (Titans)\nDevia ter amado mais\nTer chorado mais\nTer visto o Sol nascer\nDevia ter arriscado mais\n até errado mais\nTer feito o que eu queria fazer\n\nQueria ter aceitado\nAs pessoas como elas são\nCada um sabe a alegria\nE a dor que traz no coração
+ 
+   0-espaco
+   distancia = 30
+   
+ 1- texto
+ texto = AVANÇO AUTOMÁTICO DE PÁGINAS CONTROLADAS PELA DURAÇÃO DO ÁUDIO
+
+ tamanho = 32
+ alinhamento = meio
+ cor = 192,0,0
+ sombra = 4,4
+ corSombra = 127,127,127
+ 
+ 0- espaco
+ 0- espaco
+ 7 - texto 
+  texto = 5- ANIMAÇÃO DE PÁGINAS CONTROLADAS POR ÁUDIO
+   tamanho = 19
+ alinhamento = esquerda
+ cor = 8,8,182
+ 
+ 
+ 0- espaco
+ 1- texto = 
+  texto = Autorias onde se tem apenas várias imagens com um áudio explicativo de cada uma, podendo ainda utilizar um pequeno texto associado, ou uma animação, onde se deseja controlar o avanço de passar páginas no final de cada áudio, tendo a opção de escolher em que página não se deve avançar e sim passar a página manualmente, deixando tempo ao leitor para olhar os detalhes, repetir a página.\n - O link #l1#Introdução aos Aterramentos Elétricos#/l1#, para baixar um livro com esse recurso, ilustra, com um exemplo real, as potencialidades que esse recurso trás. 
+  url = https://drive.google.com/file/d/1q58i2QFPjh4WxHd-_oX7cx-I5LORsMjg/view?usp=sharing
+  fonte = ariblk.ttf
+ tamanho = 19
+ alinhamento = justificado
+ cor = 0,0,0
+ 0- espaco
+  2-imagem 
+ arquivo = aterramentos.png
+ escala = 0.35
+ 0- espaco
+ 1- texto = 
+  texto = Esse recurso difere do RECURSO ANIMAÇÃO devido ao fato de, em uma animação, o leitor escolhe quando pausar a animação. Na animação por página, o autor escolhe qual imagem, página, deverá ser pausada no avanço automático para que o leitor possa observar os detalhes sugeridos pelo áudio, imagem ou texto da tela. Didaticamente, é um recurso que atende à didática e estratégio do autor do conteúdo. 
+  fonte = ariblk.ttf
+ tamanho = 19
+ alinhamento = justificado
+ cor = 0,0,0
+
+7- card
+ titulo = Card Apenas com Texto
+ texto  = Este card está vazio
+ tipo = texto
+
+7- card
+ titulo = Card de Áudio
+ texto  = Este contém um áudio
+ tipo = som
+ arquivo = c79.mp3
+ conteudo = áudio contendo o acorde de c79.
+ 
+ 7- card
+ titulo = Card com Imagem
+ texto  = Esse card vai conter uma imagem de exemplo
+ conteudo = Essa imagem tem um conteúdo vizualizável somente quando o card for impresso
+ arquivo = 042 onisciencia.png
+ tipo = imagem
+ 
+ 7- card
+ titulo = Card Contendo uma Animação
+ texto  = Este card tem animação padrão
+ conteudo = imagem com o texto: "pasta sem imagens para animação", aparecendo palavra por palavra num timer de 300 milissegundos.
+ tipo = animacao
+ timer = 300
+ pasta = Anim Padrao.lib
+ 

@@ -1,0 +1,40 @@
+3- imagem
+ arquivo = 042 onisciencia.png
+ margem = 250
+
+ 
+0- espaco
+distancia = 100
+
+3- imagem
+  arquivo = pagArtigo.png
+0-espaco
+7 - texto
+ texto = 2 - Olhar senha no fórum:
+ fonte = ariblk.ttf
+ tamanho = 16
+ alinhamento = esquerda
+ indice = - ARTIGO: Lua e energia limpa na Terra||1
+ 
+2 - imagem
+ arquivo = anotacao.png
+ escala = 0.20
+ x = 200
+0-espaco
+1 - texto
+ texto = Ao clicar no botão de anotação e fórum, a seguinte janela irá abrir:
+ fonte = ariblk.ttf
+ tamanho = 16
+ alinhamento = esquerda
+2 - imagem
+ arquivo = aviso senha.png
+ escala = 0.7
+0-espaco
+1 - texto
+ texto = Ao clicar na aba fórum você obterá a senha de acesso enviada pelo autor:
+ fonte = ariblk.ttf
+ tamanho = 16
+ alinhamento = esquerda
+2 - imagem
+ arquivo = abaForum.png
+ escala = 0.7

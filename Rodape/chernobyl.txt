@@ -1,0 +1,10 @@
+1- texto
+texto =#n#ACIDENTE RADIOATIVO EM CHERNOBYL EM 1986#/n# = #l1#https://en.wikipedia.org/wiki/Chernobyl_disaster#/l1#
+fonte = ariblk.ttf
+ tamanho = 14
+ alinhamento = justificado
+ 
+0- espaco
+
+2- imagem
+ arquivo = ACIDENTECHERNOBYL.png

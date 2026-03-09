@@ -1,0 +1,3 @@
+
+Tempo por imagens = 300
+Som da Animacao = nil

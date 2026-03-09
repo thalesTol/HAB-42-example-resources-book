@@ -1,0 +1,2 @@
+indice 1.txt
+indice 7.txt

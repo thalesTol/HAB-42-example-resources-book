@@ -1,0 +1,3 @@
+tokomak.txt
+chernobyl.txt
+obsFundTexto.txt

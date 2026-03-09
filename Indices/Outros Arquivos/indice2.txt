@@ -1,0 +1,128 @@
+ÍNDICE DE FIGURAS
+
+titulo| Figura 1 - Definição do princípio básico do Emergent Behavior com o exemplo de uma célula humana e seus componentes|3
+
+titulo| Figura 2 - Lucas tocando ao piano lendo à primeira vista na partitura em Musicografia Lima|4
+
+titulo| Figura 3 - Frase motivacional a se tentar alcançar um objetivo|5
+
+titulo| Figura 4 - Notação musical utilizando Neumas|6
+
+titulo| Figura 5 - Notações musicais com uma, quatro e seis linhas|6
+
+titulo| Figura 6 - Notação com 4 linhas: música Alleluia|6
+
+titulo| Figura 7 - Notação com 6 linhas: My Ladye Nevells Booke 11 September 1591|7
+
+titulo| Figura 8 - Guido D'Arezzo|7
+
+titulo| Figura 9 - Hino à São João Batista com notação em 4 linhas (tetragrama)|8
+
+titulo| Figura 10 - Notações CPN solo, piano, bateria e tablatura|8
+
+titulo| Figura 11 - Um cego tocando de memória, ao piano, com um tutor ao lado|9
+
+titulo| Figura 12 - Thomas Edison ao lado do fonógrafo, o qual inventou em 1887|10
+
+titulo| Figura 13 - Charles Barbier|10
+
+titulo| Figura 14 - Louis Braille|11
+
+titulo| Figura 15 - Célula Braille de 6 pontos em relevo. Numeração dos pontos|11
+
+titulo| Figura 16 - Códigos de letras e números na notação Braille|11
+
+titulo| Figura 17 - Exemplo de codificações redundantes na Musicografia Braille|13
+
+titulo| Figura 18 - Fabiana Bonilha|14
+
+titulo| Figura 19 - Capa do PDF da Codificação Braille para Música do BANA 2015|14
+
+titulo| Figura 20 - Prancheta com reglete para escrita Braille|16
+
+titulo| Figura 21 - Uma pessoa cega com um fone de ouvido e tocando violão|16
+
+titulo| Figura 22 - Forma de onda do som de um evento musical e a partitura musical correspondente|19
+
+titulo| Figura 23 - Estrutura de evento de nota na Musicografia Lima|20
+
+titulo| Figura 24 - Partitura musical com a estrutura da Musicografia Lima|21
+
+titulo| Figura 25 - Pontos de uma célula Braille utilizados para codificar os parâmetros de um Evento de Nota Musical|22
+
+titulo| Figura 26 - Células Braille com a codificação dos números de 0 a 9|22
+
+titulo| Figura 27 - Estrutura do Evento de Nota Musical|22
+
+titulo| Figura 28 - Codificação das notas musicais e da pausa|23
+
+titulo| Figura 29 - Codificação das oitavas musicais de 0 a 9|24
+
+titulo| Figura 30 - Codificação de intensidade de execução das notas musicais|24
+
+titulo| Figura 31 - Codificação das figuras musicais|25
+
+titulo| Figura 32 - Exemplo de um evento de nota musical|26
+
+titulo| Figura 33 - Tabela contendo os códigos dos parâmetros utilizados para representar um evento de nota musical|26
+
+titulo| Figura 34 - Separação entre estruturas|27
+
+titulo| Figura 35 - Oito compassos da música A Banda em partitura CPN e na Musicografia Lima|26
+
+titulo| Figura 36 - Estrutura da codificação da Tablatura na Musicografia Lima comparada com a codificação de evento de nota|29
+
+titulo| Figura 37 - Partitura com um trecho da música Smoke on the Water|29
+
+titulo| Figura 38 - Estrutura da codificação de Bateria e Percussão comparada com a codificação de evento de nota|30
+
+titulo| Figura 39 - Tabela de bateria com percussão com as codificações das células da estrutura|31
+
+titulo| Figura 40 - Ritmo quaternário Pop Padrão|32
+
+titulo| Figura 41 - Exemplo de partitura em Musicografia Lima com dois eventos de nota musical e um acorde que as acompanham|33
+
+titulo| Figura 42 - Exemplo com 5 compassos de um trecho de música solo com respectivos acordes da harmonia: CPN e notação da Musicografia Lima|34
+
+titulo| Figura 43 - Tabela com dicionário dos acordes da música|35
+
+titulo| Figura 44 - Codificação de acorde e respectivo ritmo|36
+
+titulo| Figura 45 - Ligadura de nota|37
+
+titulo| Figura 46 - Quiáltera Tercina e CPN correspondente|37
+
+titulo| Figura 47 - Quiáltera Quintina e CPN correspondente|38
+
+titulo| Figura 48 - Quiáltera Septina e CPN correspondente|38
+
+titulo| Figura 49 - Notas tocadas simultaneamente com um intervalo de terça maior|39
+
+titulo| Figura 50 - Exemplo de codificação de barra de compasso|39
+
+titulo| Figura 51 - Exemplo de codificação de barra de repetição|40
+
+titulo| Figura 52 - Tabela com codificação de pontos de aumento|40
+
+titulo| Figura 53 - Estrutura, na Musicografia Lima, com uma nota Dó5 com o tempo de uma mínima pontuada|41
+
+titulo| Figura 54 - Estrutura, na Musicografia Lima, com uma nota Dó5, com o tempo de uma mínima duplamente pontuada|41
+
+titulo| Figura 55 - Exemplo de um trecho de música com baras de compasso e ligaduras|42
+
+titulo| Figura 56 - Mapa geral da estrutura com as codificações suplementares|43
+
+titulo| Figura 57 - Tabela com os pontos de definição de ligaduras, quiálteras, ponto de aumento, notas simultâneas, barra de compasso e de repetição|44
+
+titulo| Figura 58 - Uma música com cabeçalho escrita na Musicografia Lima|45
+
+titulo| Figuras com links de entrevistas dos autores|47
+
+titulo| Figura com um trecho do jornal Gazeta do Triângulo sobre a Musicografia Lima|49
+
+titulo| Figura com o Folder das palestras realizadas|50
+
+titulo| Fotos tiradas nas palestras realizadas na UFU e Conservatórios Estaduais de Música de Uberlândia e Araguari|51
+
+
+

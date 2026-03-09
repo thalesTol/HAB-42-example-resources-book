@@ -1,0 +1,194 @@
+
+ 3- imagem
+ arquivo = o42esqerda4.png
+ 
+0- espaco
+ distancia=30
+
+
+1- texto
+ texto = RECURSOS EXTRAS
+ tamanho = 20
+ alinhamento = meio
+ cor = 192,0,0
+ sombra = 2,2
+ corSombra = 0,0,0
+ indice = - RECURSOS: lista e parâmetros dos recursos mais usuais do HAB 42||1
+ 
+0- espaco
+ distancia=60
+ 
+ 6 - texto
+ texto = 1 - TTS
+ fonte = ariblk.ttf
+ tamanho = 14
+ alinhamento = esquerda
+ 
+1- texto
+ texto = 2 - DICIONÁRIO
+ fonte = ariblk.ttf
+ tamanho = 14
+ alinhamento = esquerda
+
+2- texto
+ texto = 3 - RODAPÉ
+ fonte = ariblk.ttf
+ tamanho = 14
+ alinhamento = esquerda
+ 
+3 - texto
+ texto = 4 - CARDS
+ fonte = ariblk.ttf
+ tamanho = 14
+ alinhamento = esquerda
+ 
+4 - texto
+ texto = 5 - IMPRESSÃO
+ fonte = ariblk.ttf
+ tamanho = 14
+ alinhamento = esquerda
+ 
+5 - texto
+ texto = 6 - RELATÓRIO
+ fonte = ariblk.ttf
+ tamanho = 14
+ alinhamento = esquerda
+ 
+6 - texto
+ texto = 7 - FÓRUM
+ fonte = ariblk.ttf
+ tamanho = 14
+ alinhamento = esquerda
+ 
+6 - texto
+ texto = 8 - CLEARANCE
+ fonte = ariblk.ttf
+ tamanho = 14
+ alinhamento = esquerda
+ 
+6 - texto
+ texto = 9 - ÍNDICES TEMÁTICOS (dos recursos padrão)
+ fonte = ariblk.ttf
+ tamanho = 14
+ alinhamento = esquerda
+ 
+0- espaco
+ distancia=60
+
+
+1- texto
+ texto = RECURSOS PADRÕES:\nParâmentros personalizáveis
+tamanho = 20
+ alinhamento = meio
+ cor = 192,0,0
+ sombra = 2,2
+ corSombra = 0,0,0
+ 
+0- espaco
+ distancia=60
+ 
+6 - texto
+ texto = 1 - PARÂMETROS COMUNS A TODOS OS RECURSOS
+ fonte = ariblk.ttf
+ tamanho = 14
+ alinhamento = esquerda
+ 
+61 - texto
+ texto = 1.1 - Reposicionamento Horizontal do Recurso (x)\n1.2 - Margem (direita = esquerda)\n1.3 - Atributo ALT\n1.4 - Conteúdo
+  fonte = arial.ttf
+ tamanho = 14
+ alinhamento = esquerda
+
+0- espaco
+
+ 
+7 - texto
+ texto = 2 - PRINCIPAIS PARÂMENTROS PERSONALIZÁVEIS DO TEXTO
+ fonte = ariblk.ttf
+ tamanho = 14
+ alinhamento = esquerda
+
+ 
+71 - texto
+ texto = 2.1 - Fonte\n 2.2 - Mudança de tamanho\n 2.3 - mudança de tamanho e fonte de letra(s)\n 2.4 - Mudança de cor\n 2.5 - Mudança de cor de letra(s)\n 2.6 - Texto sublinhado\n 2.7 - Texto em itálico\n 2.8 - Texto com itálico e com negrito (bold)\n 2.9 - Texto com sobrescrito\n 2.10 - Texto com subscrito\n 2.11 - Texto com sobrescrito e subscrito juntos\n 2.12 - Texto com link ativo dentro do mesmo\n 2.13 - Palavra ativando link\n 2.14 - Link Embeded\n 2.15 = Recuo horizontal\n 2.16 - Espaçamento entre linhas\n 2.17 - Alinhamento à esquerda\n 2.18 - Alinhamento à direita\n 2.19 - Alinhamento centralizado\n 2.20 - Alinhamento justificado\n 2.21 - Link de envio de e-mail\n 2.22 - Texto com Sombra
+  fonte = arial.ttf
+ tamanho = 14
+ alinhamento = esquerda
+ 
+ 0- espaco
+distancia = 30
+
+1- texto
+ texto = 3 - TEXTO COM MULTIMÍDIA EXPLÍCITA x IMPLÍCITA
+ tamanho = 14
+ alinhamento = esquerda
+ cor = 0,0,0
+ sombra = 2,2
+ corSombra = 0,0,0
+ 
+0- espaco
+ distancia=30
+ 
+ 6 - texto
+ texto = 3.1 - #n#MÍDIA EXPLÍCITA#/n# \n todos os recursos multimídia estão visíveis na página. 
+ fonte = arial.ttf
+ tamanho = 14
+ alinhamento = esquerda
+
+
+1 - texto
+ texto = 3.2 - #n#MÍDIA IMPLÍCIA#/n# \n Todos os  recursos multimídia são ativados por palavras chaves, contidas em um discreto retângulo, no texto puro, quando, ao se clicar na palavra, pode-se ativar o recurso multimídia.
+  fonte = arial.ttf
+ tamanho = 14
+ alinhamento = esquerda
+ 0- espaco
+ distancia = 30
+ 1- texto
+  texto = 4 - PRINCIPAIS PARÂMETROS PERSONALIZÁVEIS EM IMAGENS
+   tamanho = 14
+ alinhamento = esquerda
+ cor = 0,0,0
+ sombra = 2,2
+ corSombra = 0,0,0
+ 0- espaco
+ distancia = 30  
+ 1- texto
+texto = 4.1 - Posição na página: esquerda, meio, direita, justificada e conforme opção do autor.\n4.2 - vinculação de link ativo em uma imagem\n4.3 - Separação de recursos por uma barra horizontal personalizada em tamanho, cor e espessura 
+  fonte = arial.ttf
+ tamanho = 14
+ alinhamento = esquerda
+
+0- espaco
+ distancia = 30
+ 1- texto
+  texto = 5 - PRINCIPAIS PARÂMETROS PERSONALIZÁVEIS EM ÁUDIO
+   tamanho = 14
+ alinhamento = esquerda
+ cor = 0,0,0
+ sombra = 2,2
+ corSombra = 0,0,0
+ 0- espaco
+ distancia = 30  
+ 1- texto
+texto = 5.1 - Player: atributos e ferramentas\n 5.2 - Controles do player\n 5.3 - Contador de posição do áudio e duração total\n 5.4 - Conteúdo escrito do áudio\n 5.5 - Animação de páginas controladas por áudio
+  fonte = arial.ttf
+ tamanho = 14
+ alinhamento = esquerda
+ 
+0- espaco
+ distancia = 30
+ 1- texto
+  texto = 6 - EXEMPLO DE USO DO RECURSO QUESTÃO
+   tamanho = 14
+ alinhamento = esquerda
+ cor = 0,0,0
+ sombra = 2,2
+ corSombra = 0,0,0
+ 0- espaco
+ distancia = 30  
+ 
+1 - texto
+ texto = 6.1 - Uma questão relacionada à música
+  fonte = arial.ttf
+ tamanho = 14
+ alinhamento = esquerda

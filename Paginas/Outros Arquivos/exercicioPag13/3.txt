@@ -1,0 +1,39 @@
+2 - imagem
+ arquivo = erro.jpg
+ atributo alt = Figura indicando que a alternativa escolhida está errada!
+ margem = 40
+0 - espaco
+
+
+1 - texto
+ texto = A resposta: Guido D'Arezzo infelizmente está incorreta. Realmente confunde, já que Braille se baseou na partitura formalizada por Guido D'Arezzo, #l1##s#os pentagramas musicais,#/s##/l1# para codificar a Musicografia Braille. O paradigma no qual Braille se baseou para codificar a música, foi o da partitura CPN convencional, em pentagramas.\n Mas, o que realmente foi perguntado, é: #s#\n- Em que se baseou Braille para codificar a partitura em matrizes de pontos em relevo?#/s#\n E não:\n#s#- Em que paradigma de formalização da música, Braille se baseou para fazer a Musicografia dele? #/s# Com certeza, não foi em Guido D'Arezzo. Resposta errada, portanto.\n 
+ fonte = segoeuib.ttf
+ tamanho = 20
+ margem = 15
+ alinhamento = justificado
+ url = https://en.wikipedia.org/wiki/Staff_(music)
+
+3 - imagem
+ arquivo = guido.JPG
+ atributo alt = Essa figura mostra a imagem de Guido D'Arezzo, o qual, além dos pentagramas, nomeou as notas musicais, estraindo, tais nomes, da primeira sílaba das palavras do Hino a São João Batista.
+ margem = 30
+0 - espaco
+
+1 - texto
+ texto = Hino a São João Batista, do qual Guido D'Arezzo tirou o nome das notas musicais.\n
+ fonte = segoeuib.ttf
+ tamanho = 20
+ alinhamento = justificado
+ margem = 15
+0 espaco
+
+4- som
+  arquivo = sj.mp3
+  margem = 15
+  conteudo = Este áudio toca o início da Música "Hino a São João Batista" de onde, conforme já explicado, Guido D'Arezzo tirou os nomes das 7 notas musicais, onde, inicialmente, a nota Dó era chamada de Ut.
+0 - espaco
+
+5- imagem
+ arquivo = notas.png
+ atributo alt = Esta figura mostra o trecho da música da qual Guido D'Arezzo tirou os nomes das notas, sendo que, a nota dó, se chamava Uut,, inicialmente. Como uut,, era difícil de pronunciar, cinco séculos depois, o italiano Giovããni Maria Bonontíni mudou uut,, para a primeira sílaba da palavra latina Dóminus, palavra que significa: mestre, senhor.
+ margem = 30

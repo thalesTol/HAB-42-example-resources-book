@@ -1,0 +1,6 @@
+audioBlank.png
+audioButton.png
+audioButtonD.png
+He3.jpg
+imagemErro.jpg
+pause 2.png

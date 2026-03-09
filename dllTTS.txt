@@ -1,0 +1,7 @@
+ativar intro.MP3
+baixando.MP3
+baixandoErro.MP3
+cancelado.MP3
+desativar intro.MP3
+introducao.MP3
+naoReconhecido.MP3

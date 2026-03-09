@@ -1,0 +1,19 @@
+
+1 - arquivo = imagemErro.jpg
+2 - altura = nil
+3 - comprimento = nil
+4 - zoom = sim
+5 - x = nil
+6 - y = nil
+7 - atributo ALT = nil
+8 - urlImagem = nil
+
+9 - margem = 0
+
+1 - texto = (Erro no texto)
+2 - urlTexto = nil
+3 - tamanho = 50
+4 - fonte = ariblk.ttf
+5 - alinhamento (esquerda-meio-direita-justificado) = justificado
+6 - cor (RGB) = 255,170,0
+7 - urlEmbeded = nil

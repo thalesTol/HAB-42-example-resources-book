@@ -1,0 +1,20 @@
+2 - imagem
+ arquivo = erro.jpg
+ atributo alt = Figura indicando que a alternativa escolhida está incorreta!
+ margem = 40
+0 - espaco
+
+
+1 - texto
+ texto = Se você julgou que essa alternativa está correta, infelizmente você errou.\n Todas as demais alternativas apresentam pessoas que muito contribuíram para a música, desde a antiguidade, com conceitos válidos até hoje. \n   - Qual, portanto, seria a alternativa correta?\n Volte à questão, releia o enunciado e tente novamente. Cada opção errada lhe dará o conhecimento do porquê estar ela errada. Assim, mesmo errando, você aprende um pouco mais sobre o assunto. Ao acertar, mais alguns detalhes lhe serão apresentados, justificando seu acerto, bem como ajudando a relembrar alguns detalhes que possa ter se esquecido.  
+
+ fonte = segoeuib.ttf
+ tamanho = 20
+ margem = 15
+ alinhamento = justificado
+
+0 - espaco
+
+7- botao
+  label = Voltar para a teoria
+  numero = 10

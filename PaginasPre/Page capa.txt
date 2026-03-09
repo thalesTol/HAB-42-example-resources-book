@@ -1,0 +1,8 @@
+
+1- animacao
+ y = 200
+ pasta =Anim O42
+ timer = 740
+ executar automatico = sim
+ loop = sim
+ som = fl.mp3

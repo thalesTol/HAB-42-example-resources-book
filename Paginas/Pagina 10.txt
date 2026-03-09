@@ -1,0 +1,14 @@
+3- imagem
+ arquivo = 042 onisciencia.png
+ margem = 250
+ y=5
+ 
+0- espaco
+distancia = 100
+
+3- imagem
+  arquivo = recurso audio.png
+  atributo ALT = Recurso Áudio: Parâmetros e ações personalizáveis.
+  
+4- imagem
+  arquivo = passar pagina.png

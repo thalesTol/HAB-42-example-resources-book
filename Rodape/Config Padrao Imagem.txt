@@ -1,0 +1,11 @@
+
+1 - arquivo = imagemErro.jpg
+2 - altura = nil
+3 - comprimento = nil
+4 - zoom = sim
+6 - x = nil
+5 - y = nil
+6 - atributo ALT = nil
+7 - url = nil
+8 - alinhamento = meio
+9 - margem = 0

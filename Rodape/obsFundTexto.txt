@@ -1,0 +1,18 @@
+1- texto
+ texto = OBSERVAÇÃO FUNDAMENTAL:
+ fonte = ariblk.ttf
+ tamanho = 18
+ alinhamento = esquerda
+0 - espaco
+1- texto
+ texto =Para se utilizar recursos de negrito, itálico, e outros de letras, as fontes utilizadas devem ter tal recurso.\nExemplo no caso de uso da fonte Segoe, onde só precisamos, no editor  do Hiper Áudio Book #n#HAB 42#/n#, ter a opção de letra normal, negrito(bold), itálica e negrito itálico:\n  - arial.ttf\n  - arialbd.ttf\n  - ariali.ttf\n  - arialbi.ttf 
+ fonte = arial.ttf
+ tamanho = 18
+ alinhamento = justificado
+ 0-espaco
+ 2- imagem
+ arquivo = arial.png
+ 1-texto
+  texto = fonte: fornecida pelo autor
+  tamanho = 10
+  alinhamento = direita

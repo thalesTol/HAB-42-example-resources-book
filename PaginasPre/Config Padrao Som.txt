@@ -1,0 +1,7 @@
+1 - arquivo = som vazio.WAV
+2 - x = nil
+3 - y = nil
+4 - atributo ALT = nil
+5 - conteudo = nil
+6 - avancar automatico = nao
+7 - tocar automatico = nao

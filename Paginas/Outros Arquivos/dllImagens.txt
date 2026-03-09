@@ -1,0 +1,67 @@
+042 onisciencia.png
+abaForum.png
+abreImpli.png
+anotacao.png
+aterramentos.png
+audioBlank.png
+audioFig.png
+avancar.png
+aviso senha.png
+barIniTotal.png
+config.png
+configurações.png
+conteudo.png
+despausar.png
+detalheimpexpli.png
+expli_impli.png
+fissao.png
+fontes.png
+fusao1.png
+FusaoNuclearrocesso.jpg
+imagemErro.jpg
+iniciarTTS.png
+linkAtivar.png
+lua.png
+midia explicita.png
+midia implicita.png
+negrito2.png
+o42esqerda.PNG
+o42esqerda2.png
+o42esqerda3.png
+o42esqerda4.png
+pagArtigo.png
+parar.png
+passar pagina.png
+Pausar.png
+pause 2.png
+player.png
+prosseguir.png
+recurso animacao.png
+recurso anot e forum.png
+recurso audio.png
+recurso botao.png
+recurso card.png
+recurso clearance.png
+recurso dicionario.png
+recurso espaco.png
+recurso fundo.png
+recurso imagem.png
+recurso impressao.png
+recurso indices.png
+recurso pref autor.png
+recurso questao.png
+recurso relatorio.png
+recurso rodape.png
+recurso separador.png
+recurso slider.png
+recurso sumario.png
+recurso texto.png
+recurso TTS.png
+recurso video.png
+retrocedendo.png
+retroceder.png
+rolagemPg.png
+sobrecargaExp_Impl.png
+ttsAtivado1.png
+ttsDesativado.png
+ttsDespausando.PNG

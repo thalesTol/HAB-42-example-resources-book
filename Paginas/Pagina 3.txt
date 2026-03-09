@@ -1,0 +1,146 @@
+
+1- texto
+ texto = LUA: UMA SOLUÇÃO PARA A ENERGIA NA TERRA?
+ tamanho = 22
+ alinhamento = meio
+ cor = 8,8,182
+ sombra = 3,4
+ corSombra = 127,127,127
+ indice = conteúdo(necessita olhar senha no fórum)||2
+
+0- espaco
+ distancia = 30
+ 
+2- imagem 
+ arquivo= lua.png
+
+1- texto
+ texto = fonte: https://sonhoastral.com/articles/1725
+ tamanho = 10
+ cor = 127,127,127
+ alinhamento = direita
+ 
+0- espaco
+ distancia=35
+ 
+1- texto
+ texto = |f=ariblk.ttf[|t26[N]o meio da euforia do advento da construção dos #r=tokomak.txt#TOKAMAK#/r=tokomak.txt#, surge uma nova expectativa de geração de energia limpa utilizando #dic=helio3.txt#Hélio-3#/dic=helio3.txt# (|>[3]|n[He]), a energia das estrelas, pelo processo da Fusão Nuclear em vez das preocupantes usinas geradoras de energia por Fissão Nuclear, como o que ocorreu em #r=chernobyl.txt#Chernobyl#/r=chernobyl.txt#.
+ fonte = segoeui.ttf
+ tamanho = 16
+ alinhamento = justificado
+ 
+0- espaco
+ 
+1- texto
+ texto = Uma breve pausa:\nFUSÃO NUCLEAR
+ tamanho = 20
+ alinhamento = esquerda
+ 
+0- espaco
+
+ 
+1- texto
+ texto = A figura, a seguir, mostra, de uma forma geral, um exemplo de como a geração da energia pela fusão está sendo implementada nos TOKAMAK.
+ fonte = segoeui.ttf
+ tamanho = 16
+ alinhamento = justificado
+ 
+0- espaco
+ 2- imagem
+ arquivo = FusaoNuclearrocesso.jpg
+ 
+1- texto
+ texto = fonte:https://revistapesquisa.fapesp.br/wp-content/uploads/2012/04/FusaoNuclear_gran.jpg
+ alinhamento = direita
+ tamanho = 10
+ cor = 127,127,127
+
+0- espaco
+
+1- texto
+ texto = VOLTANDO AO MUNDO E À LUA:\nÀ CHINA!
+ tamanho = 20
+ alinhamento = esquerda
+ 
+0- espaco
+
+1- texto
+ texto = Uma nova alternativa à fusão nuclear pelos TOKAMAK é a descoberta da missão Chang'e-5, lançada em 2020, em 23 de novembro, retornando 23 dias após, trouxe à terra alguns minerais, entre eles, o minério batizado como: #n#Chamgesite-(Y)#/n#. Somente esse ano, após estudos, divulgaram que tal minério possui traços significativos, em relação ao que se tem na #n#Terra#/n#, de Hélio-3 (|>[3]|n[He]). O Hélio-3 é um subproduto da fusão nuclear, gerando quantidades elevadas de energia, e, melhor, mais do que o necessário para se fazer a fusão (que é o que se espera conseguir com os TOKOMAKs nas próximas décadas). 
+  fonte = segoeui.ttf
+ tamanho = 16
+ alinhamento = justificado
+ 
+0- espaco
+
+2- imagem
+arquivo = fusao1.png
+
+1- texto
+ texto = fonte:https://www.todamateria.com.br/fusao-nuclear/
+ alinhamento = direita
+ tamanho = 10
+ cor = 127,127,127
+ 
+1- texto
+ texto = ENERGIA LIMPA, ECOLÓGICA
+ tamanho = 20
+ alinhamento = esquerda
+ 
+0- espaco
+
+
+
+1- texto
+ texto = Com tantos desastres naturais frutos, principalmente, devido aos avanços tecnológicos em larga escala, os cientistas do mundo todo estão procurando soluções novas para produção de energia elétrica, a mola propulsora, o fundamento que sem ele nada funcionaria, geradores a #n#|>[3]He#/n#  (Hélio-3), bem como as novas baterias a #n#Hidrogênio#/n#, em substituição à egemonia dos #n#íons de Lítio#/n#, principalmente para para mobilidade, são um refrigério das consciências dos que se preocupam com nosso legado para a geração atual e vindoura.
+  fonte = segoeui.ttf
+ tamanho = 16
+ alinhamento = justificado
+ 
+0- espaco
+
+
+1- texto
+ texto = BATERIA PORTÁTIL DE HIDROGÊNIO\n a solução do momento!
+ tamanho = 20
+ alinhamento = esquerda
+3- video
+  youtube = https://www.youtube.com/watch?v=8QbcQeWAPgY
+  
+0-espaco
+
+1- texto
+ texto = ASSIM, MAIS UMA PROMESSA ...
+ tamanho = 20
+ alinhamento = esquerda
+ 
+0- espaco
+
+1- texto
+ texto = Com tanto estudo, dedicação, fomento, resiliência, tudo dando certo, teremos uma parte da harmonia restaurada, tal como escutar um belo acorde de #n#C|<>[7+,9]#/n#  . Claro, quanto mais capacitados estivermos, mais evoluídos na técnica, mais agradável e desejável será. 
+  fonte = segoeui.ttf
+ tamanho = 16
+ alinhamento = justificado
+ 
+0- espaco
+
+2- som
+arquivo = c79.mp3
+
+1- texto
+ texto = fonte:Luciano Vieira Lima
+ alinhamento = direita
+ tamanho = 10
+ cor = 127,127,127
+ 
+7 - card
+ titulo = FUSÃO NUCLEAR
+ texto = É a reação onde dois ou mais núcleos atômicos são combinados (fusão), gerando núcleos mais pesados e com mais energia produzida doque necessária para juntá-los.\nEXEMPLO: utilização de deutério (H|<[2]) e trítio (H|<[3]) se unindo, liberando energia limpa e formando núcleos de hélio (He).
+ tipo = imagem
+ arquivo = fusao1.png
+ 
+7- card
+ titulo = FISSÃO NUCLEAR
+ texto  = É a reação onde um núcleo atômico  instável é bombardeado por neutrons, acarretando uma reação em cadeia com a quebra (fissão), desintegração do núcleo do elementos, como, por exemplo, o Urânio-235, liberando grande quantidade de energia "suja", emitindo radiação eletromagnética nociva aos seres vivos. 
+ tipo = imagem
+ arquivo = fissao.png
+ 

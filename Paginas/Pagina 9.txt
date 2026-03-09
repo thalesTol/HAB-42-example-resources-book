@@ -1,0 +1,174 @@
+
+ 0- espaco
+3- imagem
+ arquivo = o42esqerda4.png
+ 
+0- espaco
+ distancia=30
+ 7 - separador
+ cor = 130,59,11
+ largura = 600
+ 0-espaco
+1- texto
+ texto = AlGUNS RECURSOS MAIS RELEVANTES PERSONALIZÁVEIS NA IMAGEM Hélio-3 
+ //#/r=obsFundTexto.txt#
+ tamanho = 32
+ alinhamento = meio
+ cor = 192,0,0
+ sombra = 4,4
+ corSombra = 127,127,127
+ indice = - IMAGEM: principais recursos ||1
+
+7 - separador
+ cor = 130,59,11
+ largura = 600
+ 
+0- espaco
+ distancia=30
+ 
+1- texto
+ texto = 1- PADRÃO: AJUSTE PADRÃO: PELA LARGURA TOTAL DA TELA:
+ fonte = ariblk.ttf
+ tamanho = 19
+ alinhamento = esquerda
+ cor = 8,8,182
+ 0- espaco
+ 
+1- imagem
+  arquivo = lua.png
+   0- espaco
+ 7 - separador
+ cor = 130,59,11
+ largura = 600 
+0- espaco
+ distancia = 22
+ 
+ 
+1- texto
+ texto = 2- IMAGEM CENTRALIZADA COM ESCALA=50%(da largura da tela)
+ fonte = ariblk.ttf
+ tamanho = 19
+ alinhamento = esquerda
+ cor = 8,8,182
+0- espaco 
+1- imagem
+  arquivo = lua.png
+  escala = 0.5
+   0- espaco
+7 - separador
+ cor = 130,59,11
+ largura = 600  
+  0- espaco
+ distancia = 22
+  
+1- texto
+ texto = 3- IMAGEM À ESQUERDA COM ESCALA=50%(da largura da tela)
+ fonte = ariblk.ttf
+ tamanho = 19
+ alinhamento = esquerda
+ cor = 8,8,182
+  0- espaco
+1- imagem
+  arquivo = lua.png
+  escala = 0.5
+  x = 0
+  //x=0 coloca na esquerda da tela indepenente da margem 
+  margem = 30
+   0- espaco
+ 7 - separador
+ cor = 130,59,11
+ largura = 600 
+  0- espaco
+ distancia = 22
+ 
+ 
+  1- texto
+ texto = 4- IMAGEM À DIREITA COM ESCALA=50%(da largura da tela)
+ fonte = ariblk.ttf
+ tamanho = 19
+ alinhamento = esquerda
+ cor = 8,8,182
+ 0- espaco 
+1- imagem
+  arquivo = lua.png
+  escala = 0.5
+  x = 360
+  //x=360 coloca na DIREITA da tela indepenente da margem 
+   0- espaco
+7 - separador
+ cor = 130,59,11
+ largura = 600
+0- espaco 
+ distancia = 22
+
+
+  1- texto
+ texto = 5- IMAGEM POSIÇÃO HORIZONTAL À ESCOLHA DO AUTOR\nExemplo com imagem com 50% da largura total.
+ fonte = ariblk.ttf
+ tamanho = 19
+ alinhamento = esquerda
+ cor = 8,8,182
+ 0- espaco 
+1- imagem
+  arquivo = lua.png
+  escala = 0.5
+  x = 300
+  //x=360 coloca na DIREITA da tela indepenente da margem 
+   0- espaco
+7 - separador
+ cor = 130,59,11
+ largura = 600
+0- espaco 
+ distancia = 22
+ 
+ 
+ 1- texto
+ texto = 6- IMAGEM COM LINK EXTERNO (rodar no browser)
+ fonte = ariblk.ttf
+ tamanho = 19
+ alinhamento = esquerda
+ cor = 8,8,182
+  0- espaco
+ 1- texto
+ texto = Se desejado link embeded, basta colocar o recurso de link embeded mostrado no Recurso Texto.
+ fonte = ariblk.ttf
+ tamanho = 12
+ alinhamento = meio
+ cor = 0,0,0
+1- imagem
+  arquivo = lua.png
+  url = https://www.google.com/search?gs_ssp=eJzj4tVP1zc0TKrMqigqyUo3YPTiLyjKzEtOVchPUyhITUxOBQCuQQrR&q=prince+of+peace&oq=PRINCE+OF+PEACE&aqs=chrome.0.46i512j69i57j0i512l4j69i65l2.9601j0j9&sourceid=chrome&ie=UTF-8
+   1- texto
+ texto = CLIQUE NA IMAGEM para ABRIR o menu com a opção de ABIR LINK, conforme imagem do menu, já aberto, a seguir:
+ fonte = ariblk.ttf
+ tamanho = 12
+ cor = 0,0,0
+ 
+ 3- imagem
+  arquivo = linkAtivar.png
+  escala = 0.35
+   0- espaco
+7 - separador
+ cor = 130,59,11
+ largura = 600 
+
+1- texto
+ texto = 7- IMAGEM DE UMA BARRA DE SEPARAÇÃO ENTRE RECURSOS
+ fonte = ariblk.ttf
+ tamanho = 19
+ alinhamento = esquerda
+ cor = 8,8,182
+  0- espaco
+1- texto
+ texto = Nesse recurso: IMAGEM, foi utilizado uma imagem de barra entre recursos. A mesma é personalizável.\n PADRÃO:\n  1- espessura = 10 pixels\n  2- largura    = 600 pixels (máximo, no sistema = 720)\n  3- cor        = marron terra\nPERSONALIZANDO: Exemplo a seguir, personalizou-se com\nExemplo:\n  1-espessura = 20 pixels\n  2-largura    = 720 (total)\n  3- cor         = vermelho escuro   
+ fonte = ariblk.ttf
+ tamanho = 17
+ alinhamento = esquerda
+ cor = 0,0,0
+ 
+ 0- espaco
+
+7 - separador
+ cor = 162,0,0
+ largura = 720 
+ espessura = 20

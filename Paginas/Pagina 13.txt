@@ -1,0 +1,44 @@
+3- imagem
+ arquivo = o42esqerda4.png
+ 
+0- espaco
+ distancia=30
+ 
+
+ 7 - texto 
+  texto = 6.1 - UMA QUESTÃO RELACIONADA À MÚSICA.
+   tamanho = 19
+ alinhamento = esquerda
+ cor = 8,8,182
+ indice = - QUESTÃO: Exemplo de uso||1
+ 0- espaco
+ 1- texto =
+  texto = A questão apresenta telas explicativas específicas que dependem da alternativa que for selecionada e verificada. 
+  fonte = ariblk.ttf
+ tamanho = 19
+ alinhamento = justificado
+ cor = 0,0,0
+ 0- espaco
+ 4 - questao
+ pasta = exercicioPag13
+ enunciado = As matrizes de ponto em relevo para codificação das músicas por Braille, na musicografia proposta por ele, foi baseada em quem?
+ tamanhoEnunciado = 30
+ alternativas = Pitágoras|Bach|Guido D'Arezzo|Barbier|Nenhuma das anteriores
+ tamanhoAlternativas = 30
+ correta = 4
+ tempo = nao
+ mensagem correta = OK! Acertou!
+ mensagem incorreta = Pena! Alternativa incorreta!
+ numero = 1
+  
+ 7- card
+ titulo = Card com uma Questão
+ texto  = Questão da página 13 em formato card.
+ tipo = questao
+ enunciado = As matrizes de ponto em relevo para codificação das músicas por Braille, na musicografia proposta por ele, foi baseada em quem?
+ alternativas = Pitágoras|Bach|Guido D'Arezzo|Barbier|Nenhuma das anteriores
+ correta = 4
+ 
+
+ 
+ 

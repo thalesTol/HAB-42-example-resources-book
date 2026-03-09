@@ -1,0 +1,34 @@
+2 - imagem
+ arquivo = acerto.jpg
+ atributo alt = Figura indicando que a alternativa escolhida está correta!
+ margem = 40
+0 - espaco
+
+
+1 - texto
+ texto = A resposta: BARBIER está correta.\n Braille se baseou na escrita noturna de #l1##s#Charles Barbier#/s##/l1#, capitão no Exército Francês durante o início do século XIX, o qual criou um código que consistia em uma série de pontos salientes em uma folha de papel, o qual podia ser utilizado para se comunicar silenciosamente e sem luz em batalha. \n Esse código foi conhecido com o nome de Écriture Nocturne ou Nigth Writing (Escrita noturna). As matrizes eram de doze pontos em relevo, em duas colunas de seis pontos cada. Braille, em vez disso, utilizou uma matriz de 2 colunas com 3 pontos cada, totalizando 6 pontos. 
+ fonte = segoeuib.ttf
+ tamanho = 20
+ margem = 15
+ alinhamento = justificado
+ url = https://en.wikipedia.org/wiki/Charles_Barbier
+0 - espaco
+
+3 - imagem
+ arquivo = barbier.jpg
+ atributo alt = Esta figura mostra uma foto de Charles Barbiêr , fizendo que ele nasces em 18 de maio de 1767, em Valênça, e que morreu em Paris em 22 de abril de 1841, com 73 anos de idade. O mesmo é classificado como tendo a ocupação de inventor. 
+ margem = 30
+0 - espaco
+
+4 - texto
+ texto = A primeira coluna da Escrita Noturna representava um dos números da linha da tabela mostrada na figura a seguir, e, a segunda coluna, representava um dos números da coluna. O cruzamento dos números indicava o significado do código, que representava um som. 
+ fonte = segoeuib.ttf
+ tamanho = 20
+ margem = 15
+ alinhamento = justificado
+0 - espaco
+
+5- imagem
+ arquivo = codBarbier.jpg
+ atributo alt = Esta figura mostra a codificação de Pontos em relevo de Charles Barbiêr.
+ margem = 30

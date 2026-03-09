@@ -1,0 +1,3 @@
+audioBlank.png
+imagemErro.jpg
+pause 2.png

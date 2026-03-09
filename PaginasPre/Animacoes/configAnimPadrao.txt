@@ -1,0 +1,4 @@
+﻿
+
+1 - Tempo por Imagem (milisegundos) 	= 300
+2 - Som das Animações (nome + extenção) = nil

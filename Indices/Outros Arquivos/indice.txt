@@ -1,0 +1,89 @@
+SUMÁRIO
+
+titulo|CAPA|-3
+subtitulo|Índice de Figuras|-1
+subtitulo|Índice de Questões|0
+subtitulo|Página de Rosto|1
+titulo|1- APRESENTAÇÃO GERAL | 2
+subtitulo| 1.1 Emergent Behavior |3
+titulo|2- MOTIVAÇÃO |3
+titulo|3- ENTENDENDO A DIFICULDADE DO PROBLEMA|5
+subtitulo| 3.1 Um pequeno histório da notação musical|5
+subtitulo2| 3.1.2 Notações Musicais com uma, quatro e seis linhas|6
+subtitulo2| 3.1.3 Guido D'Arezzo: Proposta de Notação Formal|7
+subtitulo| 3.2 Braille e Musicografia Braille|9
+subtitulo2| 3.2.1 Como ficavam as pessoas com deficiência visual nesse contexto?|9
+subtitulo2| 3.2.2 Braille|10
+subtitulo2| 3.2.3 Musicografia Braille: paradigma utilizado por Braille para formalizar a escrita musical|12
+subtitulo2| 3.2.3.1 Complexidade da Musicografia Braille|13
+subtitulo2| 3.2.3.2 Entendendo a estrutura do problema, pode-se buscar uma solução|15
+
+titulo|4- UMA SOLUÇÃO ATUAL| 16
+
+titulo|5- MUSICOGRAFIA LIMA: registro formal não tecnológico|18
+subtitulo| 5.1 Parâmetros da estrutura da musicografia|20
+subtitulo| 5.2 As codificações para instrumento solo, tablatura de instrumentos de corda, bateria com percussão e harmonia|20
+subtitulo2|5.2.1 Evento de Nota Musical|20
+subtitulo2|5.2.2 Simplificando a codificação do Evento de Nota Musical para facilitar a leitura|22
+subtitulo2|5.2.3 Codificação de cada célula da estrutura de um Evento de Nota Musical|22
+subtitulo2|5.2.3.1 Codificação dos Nomes da Notas Musicais|23
+subtitulo2|5.2.3.2 Codificação das Oitavas|24
+subtitulo2|5.2.3.3 Codificação do Volume, da Intensidade da Nota|24
+subtitulo2|5.2.3.4 Codificação da Figura Musical da Nota|25
+subtitulo2|5.2.4 Tabela com os Códigos das células dos Eventos de Notas na Musicografia Lima|26
+subtitulo2|5.2.4.1 Separação entre Estruturas de Eventos da Musicografia Lima|26
+subtitulo2|5.2.5 Exemplo de uma partitura escrita na Musicografia Lima|27
+subtitulo2|5.2.6 Codificação de Tablaturas na Musicografia Lima|28
+subtitulo2|5.2.7 Bateria com Percussão|30
+subtitulo2|5.2.7.1 Tabela dos Instrumentos de Bateria com Percussão|31
+subtitulo2|5.2.7.2 Exemplo de um ritmo, Pop, com a Estrutura da Notação da Musicografia Lima|32
+subtitulo2|5.2.8 Harmonia|33
+subtitulo2|5.2.8.1 Exemplo com trecho de uma Música Harmonizada com Acordes e Instrumento Solo|34
+subtitulo2|5.2.8.2 Dicionário de Acordes|35
+subtitulo2|5.2.8.3 Acorde e Execução do Ritmo|36
+subtitulo2|5.2.9 Outros Símbolos e Detalhamento de Execução que podem ser utilizados na Musicografia Lima|37
+subtitulo2|5.2.9.1 Ligaduras|37
+subtitulo2|5.2.9.2 Quiálteras|37
+subtitulo2|5.2.9.3 Notas Simultâneas|39
+subtitulo2|5.2.9.4 Barra de Compasso|39
+subtitulo2|5.2.9.5 Barra de Repetição (ritonello)|40
+subtitulo2|5.2.9.6 Pontos de Aumento de Notas Musicais|40
+subtitulo2|5.2.9.7 Exemplo de Ponto Simples de Aumento|41
+subtitulo2|5.2.9.8 Exemplo de Ponto Duplo de Aumento|41
+subtitulo2|5.2.10 Barra de Compasso com Ligadura entre Notas|42
+subtitulo2|5.2.11 Resumo da Codificação Geral do Pontos de Definição de Ligaduras, Quiálteras, Ponto de Aumento, Notas Simultâneas, Barra de Compasso e Repetição|43
+subtitulo2|5.2.11.1 Tabela das Codificações Suplementares|44
+subtitulo2|5.2.12 Codificação de um trecho de música na Musicografia Lima, com cabeçalho|45
+
+subtitulo|Questão: As matrizes de ponto em relevo para codificação das músicas por Braille, na musicografia proposta por ele, foi baseada em quem?|45
+
+titulo|CONCLUINDO|46
+
+titulo|ANEXOS|47
+subtitulo| Entrevistas|47
+subtitulo2| 1- Programa Manhã Total|47
+subtitulo2| 2- TV Universitária|47
+subtitulo2| 3- Diretoria de Comunicação UFU|48
+subtitulo2| 4- Matéria veiculada na Gazeta do Triângulo|49
+
+titulo|PALESTRAS REALIZADAS|50
+subtitulo| Folder|50
+subtitulo2| 1- Palestra na Faculdade de Música - UFU|51
+subtitulo2| 2- Palestra no Conservatório Estadual de Música de Uberlândia|51
+subtitulo2| 3- Palestra no Conservatório Estadual de Música de Araguari|52
+
+titulo|MÚSICAS EVANGÉLICAS DE UM DOS AUTORES|53
+subtitulo|Preço e Valor|53
+subtitulo|Benção Apostólica|53
+subtitulo|Em Teus Braços Senhor|53
+subtitulo|Deixa Deus Entrar em sua Vida|53
+subtitulo|Nos Caminhos que Jesus me Levar|53
+
+titulo|PLAYBACK DAS MÚSICAS DA PÁGINA ANTERIOR|54
+subtitulo|Preço e Valor|54
+subtitulo|Benção Apostólica|54
+subtitulo|Em Teus Braços Senhor|54
+subtitulo|Deixa Deus Entrar em sua Vida|54
+subtitulo|Nos Caminhos que Jesus me Levar|54
+
+titulo| LOGOTIPO: Dreams Come True|55
